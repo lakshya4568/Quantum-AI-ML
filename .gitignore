@@ -1,4 +1,6 @@
 .vscode/
 .ipynb_checkpoints/
 .DS_Store
-ai_train_api.ipynb
+check.ipynb
+.env
+main.py
